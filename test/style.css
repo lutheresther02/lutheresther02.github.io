@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(0, 255, 225);
+}
+nav{
+    background-color: rgb(225, 222, 228);
+    padding: 50px;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    text-align: left;
+    text-decoration-color: rgb(5, 169, 62);
+}
+h1{
+    background-color: rgb(0, 255, 21);
+    font-style: oblique;
+    font-size: 30px;
+}
+img{
+    border-style: dotted;
+    border-color: blue;
+    border-radius: 50%;
+}
+p{
+    background-color: rgb(116, 116, 201);
+    font-style: italic;
+    font-size: 20px;
+}
+ul{
+    background-color: aquamarine;
+    font-size: 20px;
+    font-style: italic;
+}
+table{
+    background-color: rgb(108, 158, 181);
+    border-color: blue;
+}
+th{
+    background-color: rgb(139, 119, 119);
+    font-size: 20px;
+    font-style: oblique;
+}
+td{
+    font: size 20px;
+    font-style: italic;
+}
+footer{background-color: rgb(76, 136, 24);
+    font-style: italic;
+}
